@@ -80,7 +80,7 @@
 </p>
 
 <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drummer143&show_icons=true&locale=en" alt="drummer143" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=drummer143&show_icons=true&locale=en" alt="drummer143" />
 </p>
 
 <p>
