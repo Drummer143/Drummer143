@@ -76,7 +76,7 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drummer143&show_icons=true&locale=en&layout=compact" alt="drummer143" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drummer143&show_icons=true&locale=en&layout=compact" alt="drummer143" />
 </p>
 
 <p>
