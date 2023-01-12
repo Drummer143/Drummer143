@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evgeny</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **Vue, Node.js**
+- 🌱 I’m currently learning **React, Vue, Node.js**
 
 - 📫 How to reach me **berg.evg.1@gmail.com**
 
