@@ -3,8 +3,6 @@
 
 - I’m currently learning **React, TypeScript, Rust, Node.js**
 
-- Currently working on [File Explorer](https://github.com/Drummer143/file-explorer-tauri)
-
 - How to reach me **berg.evg.1@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
